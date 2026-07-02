@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[bbc.com](https://www.bbc.com)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)",
+    "[screendragon.com](https://www.screendragon.com/blog/the-llm-not-the-agent-the-harness-is/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_lines=2-3@1120px; bento_density=grid-auto-flow:dense; labels=competitors_swept; button_contrast=black/white verified",
+  "generated_at": "2026-07-02T01:36:01.717031+00:00",
+  "headline": "Super vs Orchids \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, evidence\u2011based comparison for people choosing between Super and Orchids. Orchids explores experimental, conversational approaches to agents. Super is built for durable computer\u2011use workflows, with a reusable computer-use cache that makes repeated tasks faster and cheaper over time."
+}
